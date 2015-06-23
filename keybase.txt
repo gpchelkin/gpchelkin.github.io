@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/gpchelkin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pchelk.in
+  * I am gpchelkin (https://keybase.io/gpchelkin) on keybase.
+  * I have a public key with fingerprint 4631 1AC0 4DEA 57A3 3020  44EE 0CE9 E8C0 1DB8 1B31
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "46311ac04dea57a3302044ee0ce9e8c01db81b31",
+            "host": "keybase.io",
+            "key_id": "0ce9e8c01db81b31",
+            "kid": "0101f5796e722051ee1fde76c29a517d3fbbca62e18e33eb06f1dd31b3665b25be700a",
+            "uid": "1138825e82f3f1b95c1c54f62c04ef19",
+            "username": "gpchelkin"
+        },
+        "service": {
+            "hostname": "pchelk.in",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1435071107,
+    "expire_in": 157680000,
+    "prev": "383092533d369e91d802ac9f34034ea40f3ba3881d44887e8068b46cffccdf9f",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.14
+Comment: https://keybase.io/crypto
+
+yMIZAnicbZJfSBRBHMfvzCKVQB8iLCJdfcgQmdnZv/dQJEGl9sdQojw7d2Znz027
+ve72zkytULAMylQsNAwKKzSKjBChqLQkKYJQsCiLwyKi6MEHwa7QZrXempdhvvP5
+fWe+P37PVi1zJbt/lvfuNmdyBPfL4c0RV2lLqKmOw5Zey3nquCq6uBlmwE9DwZAZ
+sDkPJ0gIQo0AQaeaKGsIAR4IAqWAUJUqBEAdKxAjyOVylVbYqWA2WAvTPNNiGjv4
+TJ2p/+Grli4ggIYoqxKVeR6IkFJo6FSWCK9qIpR1ZGBMNImnUKEIUQwkA+o6Yh6S
+JGJexFQGQGN2kUU7CJGi8CJVeAMZEKsigUQUDIlnEagBVQcM01BAO0IZ7Q+SSlpd
+ZQa4hlyOyVGTUKcHTpS/yBKRx5BcLhiybItY1UyutO2gx6mya4MOVkOx76+BD5sB
+nTWRFURpKGxaAc4DGUls03GEAhKBDCGQczl6LGiGqM90CFGWFMCW8wyNMkukIKDy
+IkI6klSqQl0BvEZUAwkACVQTgIGwxtJCXRAURaYKkBQsSMQwCNEN1eCcSEcDFucR
+2Dc1P7MMm/6AZkdClGsYeeJNdLmTXSuWJzhj4EpOSv03HNnula729PTZCN8+l/36
+YmbT2c4dW6vejaYUz7emae75yeFpkrbtfN9Qx866mHWt5cOl/S1zSX2+G2M9v3C0
+TUooOdFbd6ozdvPrd8V/OD/pTMfn9/7Tu4IHa55P3Cvun2gZfmx3zF6O9+/bWHjB
++7v+V9+tmeGC6ODmcEVOPV54+qPkivHpS5nNDVW0nZt8Nbjmajt+s2X8fkZ8pOLT
+pqyu0dUDA968Au/0nbsPy6zWY1mp3Q9q7B5fQ1fGntsHSpoz1/m6Ezs9KYX18ZTu
+ctfb417vjNa8PpyxozF/w3hG7OTCHCjd642lTzUWfbxuPnoxtmp2ChZ9jiS6th9a
+20i+ta2I/wFHuCn9
+=NheZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gpchelkin
+
+==================================================================
+
