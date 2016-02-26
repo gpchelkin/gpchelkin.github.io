@@ -13,7 +13,7 @@
       <array />
     </option>
     <option name="outputFromStdout" value="false" />
-    <option name="program" value="/home/gpchelkin/.rbenv/shims/slimrb" />
+    <option name="program" value="slimrb" />
     <option name="scopeName" value="Project Files" />
     <option name="trackOnlyRoot" value="true" />
     <option name="workingDir" value="$FileDir$" />
