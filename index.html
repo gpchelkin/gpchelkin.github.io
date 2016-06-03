@@ -3,6 +3,14 @@
   <head>
     <meta charset="utf-8" />
     <title>George Pchelkin | Георгий Пчёлкин</title>
+    <script>
+      document.addEventListener("DOMContentLoaded", function (event) {
+        var hash = location.hash.replace('#', '');
+        if (hash != '') {
+          location.hash = '';
+        }
+      });
+    </script>
   </head>
   <body style="font-family: mono;">
     <h1>
