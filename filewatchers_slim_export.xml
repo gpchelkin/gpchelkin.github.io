@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TaskOptions>
   <TaskOptions>
-    <option name="arguments" value="-p $FileName$ $FileNameWithoutExtension$.html" />
+    <option name="arguments" value="-o $FileNameWithoutExtension$.html $FileName$" />
     <option name="checkSyntaxErrors" value="true" />
     <option name="description" value="Compiles .slim files into .html files" />
     <option name="exitCodeBehavior" value="ERROR" />
@@ -13,7 +13,7 @@
       <array />
     </option>
     <option name="outputFromStdout" value="false" />
-    <option name="program" value="slimrb" />
+    <option name="program" value="/home/gpchelkin/.pyenv/shims/plimc" />
     <option name="scopeName" value="Project Files" />
     <option name="trackOnlyRoot" value="true" />
     <option name="workingDir" value="$FileDir$" />
