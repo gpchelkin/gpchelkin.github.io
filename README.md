@@ -6,7 +6,8 @@
 - Using [JavaScript sleep()](https://stackoverflow.com/a/39914235/2490759) implementation
 - Using [honeybee](http://emojipedia.org/honeybee/) and [thumbs up](http://emojipedia.org/thumbs-up-sign/) Emojis from [Apple Color Emoji iOS 10.2](http://emojipedia.org/apple/ios-10.2/) Font
 - Using [Paratype PT Sans and PT Mono](http://www.paratype.com/public/) fonts loaded from [Google Fonts](https://fonts.google.com/)
-- Hosted on [GitHub Pages](https://pages.github.com/), `pchelk.in` domain name is registered at [Namecheap](https://www.namecheap.com/) and is using [Yandex DNS hosting](https://yandex.com/support/domain/domain/dns.xml)
- - `🐝👍.ws` (`xn--lo8h6c.ws`) domain name is registered at [GoDaddy](https://❤❤❤.ws/)
+- Hosted on [GitHub Pages](https://pages.github.com/)
+- `pchelk.in` domain name is registered at [Namecheap](https://www.namecheap.com/) and is using [Yandex DNS hosting](https://yandex.com/support/domain/domain/dns.xml)
+- `🐝👍.ws` (`xn--lo8h6c.ws`) domain name is registered at [GoDaddy](https://❤❤❤.ws/)
 - [QR Code](qr.png) is created with [QArt Coder](https://research.swtch.com/qr/draw)
 - TODO: [Schema.org Person](https://schema.org/Person)
