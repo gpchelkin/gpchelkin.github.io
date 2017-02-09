@@ -1,64 +1,70 @@
 doctype html
 html
-  head
-    meta charset="utf-8"
-    meta name="viewport" content="width=device-width, initial-scale=1"
-    title George Pchelkin / gpchelkin / Георгий Пчёлкин
-    /link href="style.css" rel="stylesheet" type="text/css"
-    /css:
-      a{text-decoration: none;}
-    javascript:
-      document.addEventListener("DOMContentLoaded", function (event) {
-        var hash = location.hash.replace("#", "");
-        if (hash == "542682682671425983496170299327846139320006572014088004853299981082597329525262038170730673351778672031929510766640001197621342594681362642852685015852317683042815355513512111948063992085192687842853333298270282") {
-          location.hash = "";
-          var list = document.getElementById("qrmsg");
-          list.innerHTML = "Nice QR code, innit?"
-        }
-      })
-  body style="font-family: sans; background-color: #cef3f2;"
-    div style="text-align: center;"
-      a href="/gpchelkin.png"
-        img src="/gpchelkin_thumb.png" alt="gpchelkin.png" width="200" height="200"
 
-    div style="width: 38%; display: inline-block;"
-      h1 style="text-align: right;" George Pchelkin
-    div style="width: 20%; display: inline-block;"
-      h1 style="text-align: right;"
-        em
-          | / gpchelkin /
-    div style="width: 38%; display: inline-block;"
-      h1 style="text-align: right;" Георгий Пчёлкин
+    head
+        meta charset="utf-8"
+        meta name="viewport" content="width=device-width, initial-scale=1"
+        title gpchelkin
+        link rel="icon" href="/favicon.ico" type="image/x-icon"
+        link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"
+        link href="https://fonts.googleapis.com/css?family=PT+Mono|PT+Sans|PT+Sans+Caption" rel="stylesheet"
+        link href="skeleton.min.css" rel="stylesheet" type="text/css"
+        script type="text/javascript" src="qrmsg.js"
 
-    div style="text-align: center;"
-      h1
-        a href="http://🐝👍.ws" 🐝👍.ws
+    body style="font-family: 'PT Sans Caption', sans-serif; background-color: #cef3f2; text-align: right;"
 
-    div#qrmsg
+        .container
 
-    div style="width: 38%; display: inline-block; font-size: 160%;"
-      ul#useful style="text-align: right; list-style-type: none;"
-        li: a href="mailto:george@pchelk.in" george@pchelk.in
-        li: a href="http://blog.pchelk.in" blog.pchelk.in
-        li: a href="https://moikrug.ru/georgiy-pchelkin" moikrug.ru/georgiy-pchelkin
-        li: a href="http://icancv.ru/gpchelkin" icancv.ru/gpchelkin
-        li: a href="https://telegram.me/gpchelkin" telegram.me/gpchelkin
-        li: a href="https://github.com/gpchelkin" github.com/gpchelkin
-        li: a href="https://keybase.io/gpchelkin" keybase.io/gpchelkin
-        li: a href="skype:pchel48" skype:pchel48
+            .row
+                .two.columns.offset-by-five
+                    a href="gpchelkin.png" title="'pchela' means 'bee' in Russian"
+                        img src="gpchelkin_thumb.png" alt="gpchelkin.png" width="200" height="200"
 
-    div style="width: 20%; display: inline-block; font-size: 160%;"
+            .row
+                .one-third.column
+                    h3 George Pchelkin
+                .two.columns.offset-by-one
+                    h3 style="font-family: 'PT Mono', monospace;" gpchelkin
+                .one-third.column.offset-by-one
+                    h3 Георгий Пчёлкин
 
-    div style="width: 38%; display: inline-block; font-size: 160%;"
-      ul#useless style="text-align: right; list-style-type: none;"
-        li: a href="https://google.com/+georgepchelkin" google.com/+georgepchelkin
-        li: a href="https://www.youtube.com/c/georgepchelkin" youtube.com/c/georgepchelkin
-        li: a href="https://vk.com/gpchelkin" vk.com/gpchelkin
-        li: a href="https://instagram.com/gpchelkin" instagram.com/gpchelkin
-        li: a href="https://facebook.com/gpchelkin" facebook.com/gpchelkin
-        li: a href="https://soundcloud.com/gpchelkin" soundcloud.com/gpchelkin
-        li: a href="https://twitter.com/gpchelkin" twitter.com/gpchelkin
-        li: a href="https://steamcommunity.com/id/gpchelkin" steamcommunity.com/id/gpchelkin
-        /li: a href="https://last.fm/user/gpchelkin" last.fm/user/gpchelkin
-        /li: a href="https://mixcloud.com/gpchelkin" mixcloud.com/gpchelkin
-        /li: a href="https://reddit.com/user/pchel48" reddit.com/user/pchel48
+            .row style="font-family: 'PT Mono', monospace; font-size: 120%;"
+
+                .one-third.column
+                    ul#useful style="list-style-type: none;"
+                        li: a href="mailto:george@pchelk.in" george@pchelk.in
+                        li: a href="http://blog.pchelk.in" blog.pchelk.in
+                        li: a href="https://telegram.me/gpchelkin" telegram.me/gpchelkin
+                        li: a href="https://github.com/gpchelkin" github.com/gpchelkin
+                        li: a href="https://keybase.io/gpchelkin" keybase.io/gpchelkin
+                        li: a href="http://icancv.ru/gpchelkin" icancv.ru/gpchelkin
+                        li: a href="https://moikrug.ru/georgiy-pchelkin" moikrug.ru/georgiy-pchelkin
+                        li: a href="skype:pchel48" skype:pchel48
+
+                .one-third.column
+                    .container
+                        .row
+                            a title="Working emoji URL" href="http://🐝👍.ws"
+                                .two.columns.offset-by-three
+                                    img.u-max-full-width src="emoji_honeybee.png" alt="honeybee emoji"
+                                .two.columns
+                                    img.u-max-full-width src="emoji_thumbs_up.png" alt="thumbs up emoji"
+                                .two.columns
+                                    h3 .WS
+                        .row
+                            .eight.columns.offset-by-two
+                                div#qrmsg.alert.u-hide style="font-family: 'PT Sans', sans-serif; text-align: center;"
+
+                .one-third.column
+                    ul#useless style="list-style-type: none;"
+                        li: a href="https://google.com/+georgepchelkin" google.com/+georgepchelkin
+                        li: a href="https://www.youtube.com/c/georgepchelkin" youtube.com/c/georgepchelkin
+                        li: a href="https://vk.com/gpchelkin" vk.com/gpchelkin
+                        li: a href="https://instagram.com/gpchelkin" instagram.com/gpchelkin
+                        li: a href="https://facebook.com/gpchelkin" facebook.com/gpchelkin
+                        li: a href="https://soundcloud.com/gpchelkin" soundcloud.com/gpchelkin
+                        li: a href="https://twitter.com/gpchelkin" twitter.com/gpchelkin
+                        li: a href="https://steamcommunity.com/id/gpchelkin" steamcommunity.com/id/gpchelkin
+                            /li: a href="https://last.fm/user/gpchelkin" last.fm/user/gpchelkin
+                            /li: a href="https://mixcloud.com/gpchelkin" mixcloud.com/gpchelkin
+                            /li: a href="https://reddit.com/user/pchel48" reddit.com/user/pchel48

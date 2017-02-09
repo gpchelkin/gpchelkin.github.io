@@ -13,7 +13,7 @@
       <array />
     </option>
     <option name="outputFromStdout" value="false" />
-    <option name="program" value="/home/gpchelkin/.pyenv/shims/plimc" />
+    <option name="program" value="plimc" />
     <option name="scopeName" value="Project Files" />
     <option name="trackOnlyRoot" value="true" />
     <option name="workingDir" value="$FileDir$" />
