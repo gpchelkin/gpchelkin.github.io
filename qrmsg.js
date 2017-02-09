@@ -8,9 +8,8 @@ document.addEventListener(
     {
         location.hash = "";
         var qrmsg = document.getElementById("qrmsg");
-        qrmsg.innerHTML = "Nice QR code, innit?";
         qrmsg.classList.toggle("u-hide");
-        await sleep(2000);
+        await sleep(3000);
         qrmsg.classList.toggle("u-hide");
     }
 })
