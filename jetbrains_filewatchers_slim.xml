@@ -1,0 +1,44 @@
+<TaskOptions>
+  <TaskOptions>
+    <option name="arguments" value="-o $FileNameWithoutExtension$.html $FileName$" />
+    <option name="checkSyntaxErrors" value="true" />
+    <option name="description" />
+    <option name="exitCodeBehavior" value="ERROR" />
+    <option name="fileExtension" value="slim" />
+    <option name="immediateSync" value="true" />
+    <option name="name" value="Python Slim - Plim" />
+    <option name="output" value="$FileNameWithoutExtension$.html" />
+    <option name="outputFilters">
+      <array />
+    </option>
+    <option name="outputFromStdout" value="false" />
+    <option name="program" value="/home/gpchelkin/.pyenv/shims/plimc" />
+    <option name="scopeName" value="Project Files" />
+    <option name="trackOnlyRoot" value="true" />
+    <option name="workingDir" value="$FileDir$" />
+    <envs>
+      <env name="PYENV_VERSION" value="3.6.1" />
+    </envs>
+  </TaskOptions>
+  <TaskOptions>
+    <option name="arguments" value="--pretty $FileName$" />
+    <option name="checkSyntaxErrors" value="false" />
+    <option name="description" />
+    <option name="exitCodeBehavior" value="ERROR" />
+    <option name="fileExtension" value="slim" />
+    <option name="immediateSync" value="true" />
+    <option name="name" value="Ruby Slim" />
+    <option name="output" value="$FileNameWithoutExtension$.html" />
+    <option name="outputFilters">
+      <array />
+    </option>
+    <option name="outputFromStdout" value="true" />
+    <option name="program" value="/home/gpchelkin/.rbenv/shims/slimrb" />
+    <option name="scopeName" value="Project Files" />
+    <option name="trackOnlyRoot" value="true" />
+    <option name="workingDir" value="$FileDir$" />
+    <envs>
+      <env name="RBENV_VERSION" value="2.4.0" />
+    </envs>
+  </TaskOptions>
+</TaskOptions>
