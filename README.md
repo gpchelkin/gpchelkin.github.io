@@ -4,7 +4,7 @@
 - [JavaScript sleep()](https://stackoverflow.com/a/39914235/2490759) implementation
 - [Paratype PT Sans and PT Mono](http://www.paratype.com/public/) fonts are loaded from [Google Fonts](https://fonts.google.com/)
 - [Userpic](http://pchelk.in/gpchelkin.png) is drawn with [Inkscape](https://inkscape.org)
-- [Honeybee](https://emojipedia.org/apple/ios-10.3/honeybee/) and [Thumbs Up](https://emojipedia.org/apple/ios-10.3/thumbs-up-sign/) emojis from [Apple Color Emoji iOS 10.3](https://emojipedia.org/apple/ios-10.3/) font
+- [Honeybee](https://emojipedia.org/apple/ios-11.1/honeybee/) and [Thumbs Up](https://emojipedia.org/apple/ios-11.1/thumbs-up-sign/) emojis from [Apple Color Emoji iOS 11.1](https://emojipedia.org/apple/ios-11.1/) font
 - [/tusit](http://pchelk.in/tusit) is [Yandex.Calendar](https://yandex.ru/support/calendar/faq/whatfor.html)
 - [QR code](http://pchelk.in/qr.png) is created with [QArt Coder](https://research.swtch.com/qr/draw)
 - [GitHub Pages](https://pages.github.com/) hosting
