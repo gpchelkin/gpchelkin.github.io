@@ -9,7 +9,6 @@
 - [QR code](http://pchelk.in/qr.png) is created with [QArt Coder](https://research.swtch.com/qr/draw)
 - [GitHub Pages](https://pages.github.com/) hosting
 - `pchelk.in` domain name is registered at [Namecheap](https://www.namecheap.com/) and is using [Yandex.Connect](https://yandex.com/support/connect/index.html) for DNS and Mail hosting
-- `🐝👌.ws` (`xn--lo8h4c.ws`) emoji domain name is registered at [GoDaddy](https://❤❤❤.ws/) and is redirected with [Hostinger](https://www.hostinger.com/)
-- TODO: [Schema.org Person](https://schema.org/Person)
+- `🐝👌.ws` / `xn--lo8h4c.ws` emoji domain name is registered at [GoDaddy](https://❤❤❤.ws/) and is DNS-managed and redirected with [Netlify](https://www.netlify.com/docs/redirects/)
 
 <!-- - Translated into HTML with [Plim](http://plim.readthedocs.io) ([GitHub](https://github.com/avanov/Plim)), Python port of Ruby's Slim -->
