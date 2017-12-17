@@ -4,12 +4,12 @@
 - [JavaScript sleep()](https://stackoverflow.com/a/39914235/2490759) implementation
 - [Paratype PT Sans and PT Mono](http://www.paratype.com/public/) fonts are loaded from [Google Fonts](https://fonts.google.com/)
 - [Userpic](http://pchelk.in/gpchelkin.png) is drawn with [Inkscape](https://inkscape.org)
-- [Honeybee](https://emojipedia.org/apple/ios-11.1/honeybee/) and [Thumbs Up](https://emojipedia.org/apple/ios-11.1/thumbs-up-sign/) emojis from [Apple Color Emoji iOS 11.1](https://emojipedia.org/apple/ios-11.1/) font
+- [Honeybee](https://emojipedia.org/apple/ios-11.2/honeybee/) and [OK Hand](https://emojipedia.org/apple/ios-11.2/ok-hand-sign/) emojis from [Apple Color Emoji iOS 11.2](https://emojipedia.org/apple/ios-11.2/) font
 - [/tusit](http://pchelk.in/tusit) is [Yandex.Calendar](https://yandex.ru/support/calendar/faq/whatfor.html)
 - [QR code](http://pchelk.in/qr.png) is created with [QArt Coder](https://research.swtch.com/qr/draw)
 - [GitHub Pages](https://pages.github.com/) hosting
 - `pchelk.in` domain name is registered at [Namecheap](https://www.namecheap.com/) and is using [Yandex.Connect](https://yandex.com/support/connect/index.html) for DNS and Mail hosting
-- `🐝👍.ws` (`xn--lo8h6c.ws`) emoji domain name is registered at [GoDaddy](https://❤❤❤.ws/) and is redirected with [Hostinger](https://www.hostinger.com/)
+- `🐝👌.ws` (`xn--lo8h4c.ws`) emoji domain name is registered at [GoDaddy](https://❤❤❤.ws/) and is redirected with [Hostinger](https://www.hostinger.com/)
 - TODO: [Schema.org Person](https://schema.org/Person)
 
 <!-- - Translated into HTML with [Plim](http://plim.readthedocs.io) ([GitHub](https://github.com/avanov/Plim)), Python port of Ruby's Slim -->
