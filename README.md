@@ -1,4 +1,4 @@
-# [gpchelkin](http://pchelk.in)
+# [gpchelkin](https://pchelk.in)
 - All pages are written in [Slim](http://slim-lang.com/) ([GitHub](https://github.com/slim-template/slim)) template language, utilizing [JetBrains PyCharm](https://www.jetbrains.com/pycharm/) IDE's [File Watchers](https://www.jetbrains.com/help/pycharm/2017.1/file-watchers.html) feature for auto-translating Slim into HTML for static hosting, see [exported file watcher](jetbrains_filewatchers_slim.xml) and [how to use it](https://www.jetbrains.com/help/pycharm/2017.1/using-file-watchers.html#enableFileWatcher)
 - [Skeleton Framework](https://skeleton-framework.github.io/) ([GitHub](https://github.com/skeleton-framework/skeleton-framework)), design is responsive
 - [JavaScript sleep()](https://stackoverflow.com/a/39914235/2490759) implementation
