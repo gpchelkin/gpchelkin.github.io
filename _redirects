@@ -1,2 +1,2 @@
-http://xn--lo8h4c.ws/*      https://pchelk.in
-https://xn--lo8h4c.ws/*     https://pchelk.in
+# https://www.netlify.com/docs/redirects/
+https://xn--lo8h4c.ws/*     https://pchelk.in/:splat        302
