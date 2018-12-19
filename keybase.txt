@@ -4,59 +4,73 @@ https://keybase.io/gpchelkin
 
 I hereby claim:
 
-  * I am an admin of http://pchelk.in
+  * I am an admin of https://pchelk.in
   * I am gpchelkin (https://keybase.io/gpchelkin) on keybase.
   * I have a public key with fingerprint 4631 1AC0 4DEA 57A3 3020  44EE 0CE9 E8C0 1DB8 1B31
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "fingerprint": "46311ac04dea57a3302044ee0ce9e8c01db81b31",
-            "host": "keybase.io",
-            "key_id": "0ce9e8c01db81b31",
-            "kid": "0101f5796e722051ee1fde76c29a517d3fbbca62e18e33eb06f1dd31b3665b25be700a",
-            "uid": "1138825e82f3f1b95c1c54f62c04ef19",
-            "username": "gpchelkin"
-        },
-        "service": {
-            "hostname": "pchelk.in",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0101f5796e722051ee1fde76c29a517d3fbbca62e18e33eb06f1dd31b3665b25be700a",
+      "fingerprint": "46311ac04dea57a3302044ee0ce9e8c01db81b31",
+      "host": "keybase.io",
+      "key_id": "0ce9e8c01db81b31",
+      "kid": "0101f5796e722051ee1fde76c29a517d3fbbca62e18e33eb06f1dd31b3665b25be700a",
+      "uid": "1138825e82f3f1b95c1c54f62c04ef19",
+      "username": "gpchelkin"
     },
-    "ctime": 1435071107,
-    "expire_in": 157680000,
-    "prev": "383092533d369e91d802ac9f34034ea40f3ba3881d44887e8068b46cffccdf9f",
-    "seqno": 4,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1545211695,
+      "hash_meta": "0d1bfa5fc38d56b1ec95a3012a284952d6c8337ac99700dae81ddfbbc2adbf47",
+      "seqno": 4168011
+    },
+    "revoke": {
+      "sig_ids": [
+        "8956bce17642ef328f62c0959ec62fab7dbe0e2b424bfa081df73654fc623eec0f"
+      ]
+    },
+    "service": {
+      "hostname": "pchelk.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1545211696,
+  "expire_in": 157680000,
+  "prev": "c06309ca486f16edc3fc303ea5415f56c6618ed6bfaf243dc752ab0931028b34",
+  "seqno": 21,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.14
+Version: Keybase OpenPGP v2.0.80
 Comment: https://keybase.io/crypto
 
-yMIZAnicbZJfSBRBHMfvzCKVQB8iLCJdfcgQmdnZv/dQJEGl9sdQojw7d2Znz027
-ve72zkytULAMylQsNAwKKzSKjBChqLQkKYJQsCiLwyKi6MEHwa7QZrXempdhvvP5
-fWe+P37PVi1zJbt/lvfuNmdyBPfL4c0RV2lLqKmOw5Zey3nquCq6uBlmwE9DwZAZ
-sDkPJ0gIQo0AQaeaKGsIAR4IAqWAUJUqBEAdKxAjyOVylVbYqWA2WAvTPNNiGjv4
-TJ2p/+Grli4ggIYoqxKVeR6IkFJo6FSWCK9qIpR1ZGBMNImnUKEIUQwkA+o6Yh6S
-JGJexFQGQGN2kUU7CJGi8CJVeAMZEKsigUQUDIlnEagBVQcM01BAO0IZ7Q+SSlpd
-ZQa4hlyOyVGTUKcHTpS/yBKRx5BcLhiybItY1UyutO2gx6mya4MOVkOx76+BD5sB
-nTWRFURpKGxaAc4DGUls03GEAhKBDCGQczl6LGiGqM90CFGWFMCW8wyNMkukIKDy
-IkI6klSqQl0BvEZUAwkACVQTgIGwxtJCXRAURaYKkBQsSMQwCNEN1eCcSEcDFucR
-2Dc1P7MMm/6AZkdClGsYeeJNdLmTXSuWJzhj4EpOSv03HNnula729PTZCN8+l/36
-YmbT2c4dW6vejaYUz7emae75yeFpkrbtfN9Qx866mHWt5cOl/S1zSX2+G2M9v3C0
-TUooOdFbd6ozdvPrd8V/OD/pTMfn9/7Tu4IHa55P3Cvun2gZfmx3zF6O9+/bWHjB
-+7v+V9+tmeGC6ODmcEVOPV54+qPkivHpS5nNDVW0nZt8Nbjmajt+s2X8fkZ8pOLT
-pqyu0dUDA968Au/0nbsPy6zWY1mp3Q9q7B5fQ1fGntsHSpoz1/m6Ezs9KYX18ZTu
-ctfb417vjNa8PpyxozF/w3hG7OTCHCjd642lTzUWfbxuPnoxtmp2ChZ9jiS6th9a
-20i+ta2I/wFHuCn9
-=NheZ
+yMK0AnicrVNbaB1FGD7H2JaEiopGaWoKbmOhcDjMZWd29yj1UrCWQFpBtNiG07n8
+c7Kcc3aPu5tLSQLGQNQqlOKDfVEo3oKKRbAgVWlMUhWsDy0WHyzW4q2l9qL1UotW
+Z9OKoK/OyzKz3//93/f9M/PXtBU6ir/1v9gX/rDaLX48mw0WtnRdi0YdGettTmXU
+qcPCBxoa0qxaD7VTcRBG2DAv4OARghgGwEaDxxUJBMOepkZKJTgB7AOlIBE3WGuK
+JeWcScIkeAgJp+SYMKpB0krCKLO0LqcYC4VcDYJ5glJEkOsCIAUB+AphLX3LgW3h
+QJzmFVacFCmUw9ie2U31srz/4v9n3YMLdBhT3ycMfGKowTJgCivmGk6sBTA4yIEp
+JJFogkXXWmoAGvUwcsZLThOSegOqSRxneboqC3MMZi4jGPOAWYciHag2IRO5bo2l
+Ecwo6mvGJQYVMEERJoL4bsCI5sqn1BMqCKxALcC3snMvRGhpXM8KSeGRKHYqLuY+
+wtgqSGAorkPePA1rNrfUqWx2/MDSK8AedwkYSvwFMwELQHFihPS0BAREusS1gpBt
+YzzKrWf7mwIoZJz+8bxZMhSqBfJ8UFcCuOy/bAMoOa0kzmIVN+zxQJa10koeSrat
+leOGQVavMFRlGGl7R2zFECRpGEc2JIv8d1685MBIK0ygGuYI5lmXduV9YMhSKsQp
+CpRwfTtRDlpRmyWi9pq5mBnGFed25JpbU4a4VCuPESFRQDEivqTuPwESbHWKmuW0
+sUUiG0zAGZ+d2XJ1odhRWLzoqvzxFDrar/v7SZ1JllwKImi8vGLl2mX3vHUcvbN1
+8y/d7Y+eX/9G8OGROx57tvjB0d2vVU93PPzqjfTi3EOtF2Bf0/lo52T3r0//1HP3
+3K7+O0c7h3tX3L5h9Ns1zXe3l4s/lsu9x7fv+foVOP/m4k1rmwenL+za13fg5Myx
+PT3yyIalG9fvP2TOfvPF/Im5lSPPty355NDWm/aeWjVx+OI8Gb5v7jZn06cXfvfv
+7Rk7unz6rh1tEye+3zlS667XTj3+3e6nZvrKDzxzeOLSqvExM/bVxpu7Jp/Ui6Zn
+O7uu/+yP06T92MEndoTo9T+Xff7+Dfq9pfDg/VMv7T3Hzr49da5z/4HC4NTP3q1u
+L7rludXrlk+e6S2d/DLj69b8BY7hgC0=
+=6qSj
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -65,4 +79,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/gpchelkin
 
 ==================================================================
-
