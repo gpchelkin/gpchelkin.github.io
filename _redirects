@@ -1,7 +1,3 @@
 # https://www.netlify.com/docs/redirects/
-https://xn--lo8h4c.ws/      https://pchelk.in               302
-https://xn--lo8h4c.ws/*     https://pchelk.in/:splat        302
-https://xn--lo8h6c.ws/      https://pchelk.in               302
-https://xn--lo8h6c.ws/*     https://pchelk.in/:splat        302
-https://pchel.space/        https://pchelk.in               302
-https://pchel.space/*       https://pchelk.in/:splat        302
+https://pchel.space/        https://pchelk.in               302!
+https://pchel.space/*       https://pchelk.in/:splat        302!
