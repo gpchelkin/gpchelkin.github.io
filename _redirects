@@ -1,4 +1,5 @@
 # https://docs.netlify.com/routing/redirects/
 https://pchel.space/pub/*   https://hetbot.pchel.space:8080/pub/:splat 200
+# https://docs.netlify.com/routing/redirects/rewrites-proxies/
 https://pchel.space/        https://pchelk.in               302!
 https://pchel.space/*       https://pchelk.in/:splat        302!
