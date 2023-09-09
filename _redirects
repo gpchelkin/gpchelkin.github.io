@@ -3,6 +3,8 @@ https://pchel.space/pub/*   https://hetbot.pchel.space:8080/pub/:splat 200
 # https://docs.netlify.com/routing/redirects/rewrites-proxies/
 https://pchel.space/        https://g.pchelk.in               302!
 https://pchel.space/*       https://g.pchelk.in/:splat        302!
+https://www.pchel.space/    https://g.pchelk.in               302!
+https://www.pchel.space/*   https://g.pchelk.in/:splat        302!
 https://pchelk.in/          https://g.pchelk.in               302!
 https://pchelk.in/*         https://g.pchelk.in/:splat        302!
 https://www.pchelk.in/      https://g.pchelk.in               302!
