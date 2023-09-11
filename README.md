@@ -1,7 +1,7 @@
 # [gpchelkin](https://g.pchelk.in)
 - All pages are written in [Slim](https://slim-template.github.io) ([GitHub](https://github.com/slim-template/slim)) template language for [Ruby](https://www.ruby-lang.org). Install Ruby, then `gem install slim; slimrb --pretty index.slim > index.html`
 - [Skeleton Framework](https://skeleton-framework.github.io) ([GitHub](https://github.com/skeleton-framework/skeleton-framework)) CSS is used, so design is responsive
-- [Paratype PT Sans and PT Mono](https://company.paratype.com/pt-sans-pt-serif) fonts are loaded from [Google Fonts](https://fonts.google.com)
+- [Paratype PT Sans and PT Mono](https://www.paratype.com/collections/pt/44157) fonts are loaded from [Google Fonts](https://fonts.google.com)
 - [JavaScript sleep()](https://stackoverflow.com/a/39914235/2490759) implementation
 - [GitHub Pages](https://pages.github.com) hosting
 - `pchelk.in` domain name is registered at [Gandi.net](https://www.gandi.net) and is using [Yandex 360 for Business](https://yandex.com/support/business/) for DNS and email hosting
