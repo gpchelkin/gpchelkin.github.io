@@ -1,6 +1,12 @@
-# https://docs.netlify.com/routing/redirects/
-https://pchel.space/pub/*   https://hetbot.pchel.space:8080/pub/:splat 200
+# Exclusions served from Netlify:
+https://pchelk.in/yandex_23d8ba57f3084b0a.html https://pchelk.in/yandex_23d8ba57f3084b0a.html
+
+# Proxy rewrites from Netlify to my servers:
 # https://docs.netlify.com/routing/redirects/rewrites-proxies/
+https://pchel.space/pub/*   https://hetbot.pchel.space:8080/pub/:splat 200
+
+# Redirects from Netlify to GitHub Pages:
+# https://docs.netlify.com/routing/redirects/
 https://pchel.space/        https://g.pchelk.in               302!
 https://pchel.space/*       https://g.pchelk.in/:splat        302!
 https://www.pchel.space/    https://g.pchelk.in               302!
