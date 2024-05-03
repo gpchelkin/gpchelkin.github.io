@@ -1,6 +1,5 @@
 # Proxy rewrites from Netlify to my servers:
 # https://docs.netlify.com/routing/redirects/rewrites-proxies/
-https://pchelk.in/yandex_23d8ba57f3084b0a.html https://g.pchelk.in/yandex_23d8ba57f3084b0a.html 200
 https://pchel.space/pub/*   https://hetbot.pchel.space:8080/pub/:splat 200
 
 # Redirects from Netlify to GitHub Pages:
