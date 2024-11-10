@@ -9,7 +9,7 @@ document.addEventListener(
         location.hash = "";
         var qrmsg = document.getElementById("qrmsg");
         qrmsg.classList.toggle("u-hide");
-        await sleep(3000);
+        await sleep(10000);
         qrmsg.classList.toggle("u-hide");
     }
 })
